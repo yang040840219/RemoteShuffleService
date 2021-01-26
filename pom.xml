@@ -31,7 +31,7 @@
         <jacoco.version>0.8.2</jacoco.version>
         <guava.version>15.0</guava.version>
         <test.runner.version>2.22.1</test.runner.version>
-        <shade.version>3.1.1</shade.version>
+        <shade.version>3.2.4</shade.version>
         <skipIT>true</skipIT>
         <dependency.scope>compile</dependency.scope>
         <useProjectArtifact>false</useProjectArtifact>
